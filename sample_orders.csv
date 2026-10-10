@@ -1,0 +1,5 @@
+order_id,customer,quantity,unit_price,status
+1001,Acme Ltd,2,49.99,paid
+1002,Bluebird Co,1,120.00,pending
+1003,Northwind,3,35.00,paid
+1004,Studio X,1,109.97,paid
