@@ -30,3 +30,5 @@ Source restoration in progress. README published first to initialize the reposit
 
 ## Author
 DevStudio — business automation and practical web tools.
+
+<!-- Deployment integration check: GitHub to Vercel, 2026-10-10. -->
